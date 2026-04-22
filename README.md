@@ -19,11 +19,10 @@ The **Food Donation System** is a Java-based application built using **Object-Or
 
 ## 🧠 OOP Concepts Used
 
-* **Encapsulation** → Data protection داخل الكلاسات
-* **Inheritance** → إعادة استخدام الكود
-* **Polymorphism** → مرونة في تنفيذ الميثودز
-* **Abstraction** → تبسيط التعقيد
-
+* **Encapsulation**
+* **Inheritance** 
+* **Polymorphism** 
+* **Abstraction**
 ---
 
 ## 🛠️ Technologies Used
